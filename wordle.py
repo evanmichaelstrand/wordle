@@ -1,4 +1,5 @@
 import numpy as np
+#test
 
 with open('Downloads\wordle\wordle_words.txt') as f:
     lines = f.readlines()
